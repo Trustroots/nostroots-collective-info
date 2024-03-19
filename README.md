@@ -30,3 +30,8 @@ Technical focused volunteers are invited to apply [here](https://github.com/trus
 ## Questions
 
 If you have any questions which are not covered here, feel free to email support@trustroots.org and we'll get back to you. Please be advised it might take a little while for us to reply.
+
+
+-------------------
+
+[edit this page](https://github.com/Trustroots/nostroots-collective-info/edit/main/README.md)
