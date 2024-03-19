@@ -1,5 +1,6 @@
 ---
 title: Trustroots Collective
+permalink: /
 ---
 ## When
 
