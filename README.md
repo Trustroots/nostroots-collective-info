@@ -2,6 +2,8 @@
 title: Trustroots Collective
 permalink: /
 ---
+# Trustroots Collective
+
 ## When
 
 Wednesday 22nd to Sunday 26th of May 2024.
