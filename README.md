@@ -17,7 +17,7 @@ Feel free to arrive a day or three beforehand.
 
 In 2022 the main person behind Trustroots stepped away from the project, without even a message. This came very close to killing the whole project. From this we realised that all hospitality networks seem to fail because of their leadership. In response, we came up with an ambitious mission to move away from a single organisation and a single web site and make trustroots into something else. Instead of just one site with all the data and control, several sites with the data, and users in full control of their data.
 
-Is that really possible? Well, it's definitely ambitious. If you're interested in the technical nuts and bolts, you [can read more about that here](https://github.com/Trustroots/nostroots).
+Is that really possible? Well, it's definitely ambitious, but we think we can make this happen with nostr. If you're interested in the technical nuts and bolts, you [can read more about that here](https://github.com/Trustroots/nostroots).
 
 ## What
 
