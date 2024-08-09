@@ -2,7 +2,25 @@
 title: Trustroots Collective
 permalink: /
 ---
-# Trustroots Collective
+# Trustroots Collective 2024 Autumn
+
+## When
+
+tbd
+
+## Where
+
+Probably Portugal
+
+## Why
+
+Move faster, create more connections.
+
+
+
+
+
+# Trustroots Collective 2024 May
 
 ## When
 
